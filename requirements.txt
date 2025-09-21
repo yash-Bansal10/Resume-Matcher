@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+PyMuPDF
+sentence-transformers
+scikit-learn
+requests
+python-dotenv
+gradio
