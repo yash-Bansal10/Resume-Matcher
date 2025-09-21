@@ -5,7 +5,9 @@
 **Tired of sifting through hundreds of resumes? Resume-AI uses the power of Large Language Models to screen, analyze, and score candidates in seconds, not hours.**
 
 ![dashboard_image (3)](https://github.com/user-attachments/assets/5296e4c2-0e7e-4b57-aafd-b6d74500f4aa)
-
+![dashboard_image (4)](https://github.com/user-attachments/assets/71926067-fdae-44ca-a560-303e2246c726)
+![dashboard_image (5)](https://github.com/user-attachments/assets/fe48120f-8b0f-4c29-9aec-b75a42886259)
+![dashboard_image (2)](https://github.com/user-attachments/assets/3643bd3b-a9f0-4643-afda-b25158d475ab)
 
 
 ---
